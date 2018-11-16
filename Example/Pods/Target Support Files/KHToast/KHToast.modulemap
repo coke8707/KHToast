@@ -1,0 +1,6 @@
+framework module KHToast {
+  umbrella header "KHToast-umbrella.h"
+
+  export *
+  module * { export * }
+}

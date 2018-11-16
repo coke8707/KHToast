@@ -1,0 +1,16 @@
+PODS:
+  - KHToast (0.1.0)
+
+DEPENDENCIES:
+  - KHToast (from `../`)
+
+EXTERNAL SOURCES:
+  KHToast:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KHToast: 5110f0dc0fd6ea3d2f8451991169b42d22951094
+
+PODFILE CHECKSUM: daa8d6f4de2db3361932ff3099e3794431f03f6f
+
+COCOAPODS: 1.6.0.beta.2

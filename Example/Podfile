@@ -1,0 +1,6 @@
+use_frameworks!
+target 'KHToast_Tests' do
+  pod 'KHToast', :path => '../'
+  
+  
+end
