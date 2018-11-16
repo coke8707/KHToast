@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = '심플한 iOS Swift Toast 입니다.'
-  s.swift-version    = '4.2'
+  s.swift-version    = '4.2' 
   s.homepage         = 'https://github.com/coke8707/KHToast'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
